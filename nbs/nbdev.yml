@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "autobackup"
+  site-url: "https://johnowhitaker.github.io/autobackup"
+  description: "Automatically create backups of a directory"
+  repo-branch: main
+  repo-url: "https://github.com/johnowhitaker/autobackup"
